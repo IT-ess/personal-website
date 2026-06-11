@@ -14,6 +14,6 @@
 <h1>Blog</h1>
 <p>No posts available for the moment !</p>
 
-<PostsList posts={data.posts} />
+<!-- <PostsList posts={data.posts} /> -->
 
 <Pagination currentPage={1} totalPosts={data.total} />
