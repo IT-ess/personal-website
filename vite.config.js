@@ -1,13 +1,14 @@
-import { sveltekit } from "@sveltejs/kit/vite";
+import { sveltekit } from '@sveltejs/kit/vite';
+import tailwindcss from '@tailwindcss/vite';
 
 /** @type {import('vite').UserConfig} */
 const config = {
-	plugins: [sveltekit()],
+	plugins: [tailwindcss(), sveltekit()],
 	server: {
 		fs: {
-			allow: ["."],
-		},
-	},
+			allow: ['.']
+		}
+	}
 };
 
 export default config;

@@ -10,7 +10,7 @@
 				<a href="/api/rss.xml" data-sveltekit-reload>RSS</a>
 			</li>
 			<li>
-				<a href="/">Home</a>
+				<a href="/">About</a>
 			</li>
 		</ul>
 	</nav>
