@@ -6,8 +6,8 @@
 
 ## Recent
 
-- [Refs](https://refs.it) [alpha] - a content-based messenger meant for sharing collections of references. Built on top of the Matrix protocol. 
-- [MSC4482](https://github.com/matrix-org/matrix-spec-proposals/pull/4482) [wip] - Matrix specification change proposition to standardize a way to bookmark messages within the protocol. Also building an implementation within the [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) 
+- [Refs](https://refs.it) <span class="text-sm">[alpha]</span> - a content-based messenger meant for sharing collections of references. Built on top of the Matrix protocol. 
+- [MSC4482](https://github.com/matrix-org/matrix-spec-proposals/pull/4482) <span class="text-sm">[wip]</span> - Matrix specification change proposition to standardize a way to bookmark messages within the protocol. Also building an implementation within the [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) 
 - [matrix-svelte-client](https://github.com/IT-ess/tauri-plugin-matrix-svelte/tree/main/example/matrix-svelte-client) - a crossplatform Matrix client
 
 ## Tauri related
