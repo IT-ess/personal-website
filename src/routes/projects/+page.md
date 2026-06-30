@@ -18,4 +18,5 @@ Despite its flexibility, the Tauri ecosystem lacks plugins, especially on mobile
 - [tauri-plugin-mobile-sharetarget](https://github.com/IT-ess/tauri-plugin-mobile-sharetarget) - a plugin to manage mobile incoming share intents reliably
 
 ## Misc
+- [Photoboite](https://photoboite.fr) - a photobooth I built for fun and that I use at birthday parties
 - [flash-invaders](https://github.com/IT-ess/flash-invaders-v2) - a game created for my hometown twinning anniversary. Clone of the original [flash-invaders](https://www.space-invaders.com/flashinvaders/) built with Tauri
